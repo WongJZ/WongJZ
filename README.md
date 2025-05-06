@@ -72,5 +72,3 @@ This project is a web-based platform designed to help users discover street vend
 * **Word Count:** 6689 Words
 
 ---
-
-*(Optional: Add sections for Installation/Setup, Usage, Contributing, or License if needed)*
